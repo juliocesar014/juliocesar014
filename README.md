@@ -3,6 +3,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliocesar014&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocesar014&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
+
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
