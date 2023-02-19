@@ -15,5 +15,3 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=juliocesar014&bg_color=000000&color=ffffff&line=ffffff&point=a393a9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
